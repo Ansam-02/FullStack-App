@@ -13,7 +13,7 @@ This is a full-stack web application built with the MERN stack, which stands for
 - Fully Responsive: The app is designed to work on various screen sizes, from mobile devices to desktops.
 
 ### Tech Stack
-- Frontend: React, Material-UI, Redux (or any state management tool)
+- Frontend: React, Material-UI, Redux
 - Backend: Node.js, Express.js
 - Database: MongoDB
 
