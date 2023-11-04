@@ -1,4 +1,4 @@
-<h1 align="center">MERN app FullStack ✨️</h1>
+<h1 align="center">✨ MERN app FullStack ✨️</h1>
 
 
 ## 💻Fullstack MERN App with Auth, Likes, and Dark Mode
