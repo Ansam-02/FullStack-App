@@ -43,4 +43,4 @@ npm start
 ### ⚠note for you
 don't forget to add .env file which contain (PORT, MANGO_URL and JWT_SECRET) 
 
-## ✨️ If you like the project feel free to give a star ⭐
+##  If you like the project feel free to give a star ⭐
