@@ -37,5 +37,5 @@ npm start
 ```bash
 npm start
 ```
-### note for you
+### ⚠note for you
 don't forget to add .env file which contain (PORT, MANGO_URL, JWT_SECRET) 
