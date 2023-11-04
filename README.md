@@ -1,6 +1,8 @@
 <h1 align="center">MERN app FullStack ✨️</h1>
-## Fullstack MERN App with Auth, Likes, and Dark Mode
-This is a full-stack web application built with the MERN stack, which stands for MongoDB, Express.js, React, and Node.js. The app includes features like user authentication, likes for posts, and a dark mode option. It is designed to be fully responsive and uses the Material-UI (MUI) framework for the frontend.
+
+
+## ✨️Fullstack MERN App with Auth, Likes, and Dark Mode
+This is a full-stack web application built with the `MERN` stack, which stands for `MongoDB`, `Express.js`, `React`, and `Node.js`. The app includes features like user authentication, likes for posts, and a dark mode option. It is designed to be fully responsive and uses the Material-UI (MUI) framework for the frontend.
 
       
 ![image](https://github.com/Ansam-02/FullStack-App/assets/137777479/79160a2d-1e7b-42a5-b644-db8e031c6f0b)
