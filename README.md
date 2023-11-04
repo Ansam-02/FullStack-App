@@ -41,4 +41,6 @@ npm start
 npm start
 ```
 ### ⚠note for you
-don't forget to add .env file which contain (PORT, MANGO_URL, JWT_SECRET) 
+don't forget to add .env file which contain (PORT, MANGO_URL and JWT_SECRET) 
+
+## ✨️ If you like the project feel free to give a star ⭐
